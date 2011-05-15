@@ -1,0 +1,5 @@
+LICENCIA PUBLICA DEL _CONEJO v1 - theNinjaBunny (www.theNinjaBunny.com)
+ 
+You can copy, distribute or modify the software under this license, but any change made to the software should be public and under the same license (LPBCv1), and make the source available to anyone.
+
+Any sub-product of this software (games, other software,...) are not attached to this license.

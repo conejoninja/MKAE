@@ -1,5 +1,0 @@
-LICENCIA PRIVADA DEL _CONEJO v1 - theNinjaBunny (www.theNinjaBunny.com)
- 
-Usted no puede distribuir, modificar o copiar el software bajo esta licencia.
-
-Este software pertenece a La Organización y en ningún caso puede ser utilizado por cualquier otra entidad (unitaria o grupal). Usted deberá haber recibido una autorización expresa por parte de la Junta Directiva de La Organización, firmada por el Secretario, el Sub-Secretario y sellada por el Edil al cargo en la fecha descrita en dicha autorización. En el caso de no poseer dicha autorización usted está incumpliendo la licencia bajo la que se distribuye este software y por lo tanto perpretando un delito contra la propiedad intelectual de La Organización, quién, a debida cuenta, cobrará dichos derechos de autor de la forma más conveniente que les parezca a los Responsables de Cobros y Palizas adjudicados al caso.
