@@ -2,6 +2,10 @@
 <configurationDescriptor version="79">
   <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
     <df name="MKAE" root=".">
+      <df name=".git">
+        <df name="logs">
+        </df>
+      </df>
       <df name="bin">
         <df name="data">
         </df>
@@ -62,7 +66,7 @@
       <makefileType>
         <makeTool>
           <buildCommandWorkingDir>.</buildCommandWorkingDir>
-          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <buildCommand>${MAKE} -f Makefile complete</buildCommand>
           <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
           <executablePath>bin/MKAE</executablePath>
           <ccTool>
