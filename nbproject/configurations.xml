@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="79">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="MKAE" root=".">
+      <df name="bin">
+        <df name="data">
+        </df>
+      </df>
+      <df name="data">
+        <df name="img">
+        </df>
+      </df>
+      <df name="src">
+        <in>CRM32Pro.h</in>
+        <in>Character.cpp</in>
+        <in>Character.h</in>
+        <in>Controller.cpp</in>
+        <in>Controller.h</in>
+        <in>Game.cpp</in>
+        <in>Game.h</in>
+        <in>GameView.cpp</in>
+        <in>GameView.h</in>
+        <in>MKAELIB.cpp</in>
+        <in>MKAELIB.h</in>
+        <in>Menu.cpp</in>
+        <in>Menu.h</in>
+        <in>Object.cpp</in>
+        <in>Object.h</in>
+        <in>Pathfinding.cpp</in>
+        <in>Pathfinding.h</in>
+        <in>Scroll.cpp</in>
+        <in>Scroll.h</in>
+        <in>Shape.cpp</in>
+        <in>Shape.h</in>
+        <in>Sound.cpp</in>
+        <in>Sound.h</in>
+        <in>dataTypes.cpp</in>
+        <in>dataTypes.h</in>
+        <in>includes.cpp</in>
+        <in>includes.h</in>
+        <in>main.cpp</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>GNU|GNU</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>bin/MKAE</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>/usr/CRM32Pro</pElem>
+              <pElem>.</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="src/CRM32Pro.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Character.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Character.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Controller.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Controller.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Game.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Game.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/GameView.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/GameView.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/MKAELIB.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/MKAELIB.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Menu.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Menu.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Object.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Object.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Pathfinding.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Pathfinding.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Scroll.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Scroll.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Shape.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Shape.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/Sound.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/Sound.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/dataTypes.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/dataTypes.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="src/includes.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="src/includes.h" ex="true" tool="3" flavor="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,44 @@
++----------------------------------------------------------+
+¦         CRM32Pro SDK Linux v4.99b (build 2820)           ¦
+¦               MegaStorm Systems (c) 2007                 ¦
+¦            http://www.megastormsystems.com               ¦
++----------------------------------------------------------+
+
+ · MKAE_PC
+
+ · Executing at Sun May 15 19:19:42 2011
+ · Running on INTEL processor - Core Duo - MMX - SSE
+ · Selected 'Core/Core2' optimized code path.
+
+ · CRM32Pro successfully initiated.
+
+ · Timer information:
+      -> Execution time: 13.77s (14101 ticks)
+      -> Total Logic Frames: 282 - Total Rendering Frames: 3618
+      -> Rendering Frame Rate: Unlimited - Last second 274 - Average 259.37.
+      -> Logic Frame Rate: Desired 20 - Last second 20 - Average 20.19
+
+ · Cursor interface information:
+      -> Number of loaded cursors: 0 - Auto Restore: on - Smooth movement: on
+      -> Current cursor: '-1' - Hidden mode - Clip region: (0,0) to (640,480)
+
+
+ · Graphics renderer info:
+   -> Renderer: x11
+   -> Video memory: 0 Mb
+   -> Hardware surfaces: no
+   -> Hardware color fill: no
+   -> Hardware normal blits: no
+   -> Hardware colorkey blits: no
+   -> Hardware alpha blending blits: no
+
+   · Main screen surface info:
+     -> Resolution: 640 x 480 with 32 bits.
+     -> Surface is stored on system memory(RAM) and window screen
+
+ · [Debug] Info: Number of display formats 11 - Done 11
+
+ · [CSprites] Warning! your application have left 5 sprites without deleting.
+ · [CFonts] Warning! your application have left 1 fonts without deleting.
+ · CRM32Pro successfully closed.
+

@@ -1,0 +1,25 @@
++----------------------------------------------------------+
+¦         CRM32Pro SDK Win32 v4.99 (build 2800)            ¦
+¦               MegaStorm Systems (c) 2007                 ¦
+¦            http://www.megastormsystems.com               ¦
++----------------------------------------------------------+
+
+ · EditorDPF v4.10 (build 1627)
+ · Roberto Prieto - megastorm@ono.com
+ · http://www.megastormsystems.com
+
+ · Executing at Sun May 15 18:51:31 2011
+ · Running on INTEL processor - Core Duo - MMX - SSE
+ · Selected 'Core/Core2' optimized code path.
+
+ · CRM32Pro successfully initiated.
+ · Audio system successfully initialized (44100Hz 16bit Stereo)
+
+ · Open 'Z:\home\conejo\devkitpro\MKAE\bin\data\gfx.dpf' (Open button)
+ · Close 'Z:\home\conejo\devkitpro\MKAE\bin\data\gfx.dpf' and clean workspace
+
+
+ · [Debug] Info: Number of display formats 2 - Done 0
+
+ · CRM32Pro successfully closed.
+

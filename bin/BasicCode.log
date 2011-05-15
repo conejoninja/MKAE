@@ -1,0 +1,47 @@
++----------------------------------------------------------+
+¦         CRM32Pro SDK Linux v4.99b (build 2820)           ¦
+¦               MegaStorm Systems (c) 2007                 ¦
+¦            http://www.megastormsystems.com               ¦
++----------------------------------------------------------+
+
+ · MKAE
+
+ · Executing at Mon Aug 10 16:39:29 2009
+ · Running on INTEL processor - Core Duo - MMX - SSE
+ · Selected 'Core/Core2' optimized code path.
+
+ · CRM32Pro successfully initiated.
+
+ · Timer information:
+      -> Execution time: 3.10s (3699 ticks)
+      -> Total Logic Frames: 74 - Total Rendering Frames: 756
+      -> Rendering Frame Rate: Unlimited - Last second 163 - Average 224.34.
+      -> Logic Frame Rate: Desired 20 - Last second 20 - Average 22.27
+
+ · Cursor interface information:
+      -> Number of loaded cursors: 1 - Auto Restore: on - Smooth movement: on
+      -> Current cursor: '0' - Visible mode - Clip region: (0,0) to (640,480)
+
+      -> Cursor '0' details:
+          + Surface of 2 Kb located at system memory
+          + Cursor size: 16x32 - Type: Normal - Color depth: 32bits
+          + Alpha blending: disabled - Colorkey: RGB(0,0,0)
+
+
+ · Graphics renderer info:
+   -> Renderer: x11
+   -> Video memory: 0 Mb
+   -> Hardware surfaces: no
+   -> Hardware color fill: no
+   -> Hardware normal blits: no
+   -> Hardware colorkey blits: no
+   -> Hardware alpha blending blits: no
+
+   · Main screen surface info:
+     -> Resolution: 640 x 480 with 32 bits.
+     -> Surface is stored on system memory(RAM) and window screen
+
+ · [Debug] Info: Number of display formats 4 - Done 2
+
+ · CRM32Pro successfully closed.
+
